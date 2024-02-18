@@ -1,0 +1,8 @@
+Agregar tus cambios al área de preparación:
+git add .
+
+Confirmar tus cambios:
+git commit -m "Agregando nueva funcionalidad de autenticación"
+
+Empujar tus cambios al repositorio remoto:
+git push origin master/main
